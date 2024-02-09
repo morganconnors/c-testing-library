@@ -1,2 +1,2 @@
 # c-testing-library
-Library of cuntions used to test if things work.
+Library of funtions used to test if things work.
